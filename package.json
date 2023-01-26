@@ -1,6 +1,6 @@
 {
   "name": "@felipeclopes/ngx-segment-analytics",
-  "version": "2.1.3",
+  "version": "2.1.4",
   "scripts": {
     "build": "ng-packagr -p src/ng-package.json",
     "build:watch": "yarn run build --watch",
